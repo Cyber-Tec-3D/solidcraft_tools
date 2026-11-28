@@ -187,6 +187,8 @@ mod stretch;
 mod subdivide_face_v_knots;
 #[path = "../tangent_edge.rs"]
 mod tangent_edge;
+#[path = "../tight_box_planar_face_edges.rs"]
+mod tight_box_planar_face_edges;
 #[path = "../trim_boundary_seam_wrap.rs"]
 mod trim_boundary_seam_wrap;
 #[path = "../ub_285_nurb_fillet_shell.rs"]
